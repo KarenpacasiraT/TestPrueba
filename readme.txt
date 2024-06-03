@@ -3,4 +3,4 @@ en el apartado de main en la seccion de
   secret_key = "werty"
   coloque sus credencias de aws
 
-  hola
+  tenga los permisos correspondientes
